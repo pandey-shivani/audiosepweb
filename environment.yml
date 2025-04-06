@@ -1,4 +1,4 @@
-name: AudioSep-m1
+name: audiosepweb
 channels:
   - conda-forge
   - pytorch
