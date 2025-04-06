@@ -1,2 +1,2 @@
 # audiosepweb
-Web app for separating audio using various methods
+Web app for separating audio using text query
