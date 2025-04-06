@@ -1,0 +1,4 @@
+host: "0.0.0.0"
+port: 8000
+model_config_path: "services/decomposition/audiosep_core/config/audiosep_base.yaml"
+model_checkpoints_path: "services/decomposition/audiosep_core/checkpoint/"
