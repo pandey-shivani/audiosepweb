@@ -24,4 +24,7 @@ cd frontend/
 python gradio_interface.py
 ```
 
+![image](https://github.com/user-attachments/assets/54b18294-4e2a-4c28-8af5-36873d93a07d)
+
+
 
