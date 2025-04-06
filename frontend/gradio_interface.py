@@ -41,7 +41,7 @@ def gradio_process(audio, query):
 with gr.Blocks() as demo:
     gr.Markdown("## AudioSepWeb")
     with gr.Row():
-        audio_in = gr.Audio(source="upload", type="filepath", label="Upload your audio")
+        audio_in = gr.Audio(sources=["upload"], type="filepath", label="Upload your audio")
         text_in = gr.Textbox(label="Text Query", placeholder="Describe how to process the audio…")
     with gr.Row():
         btn = gr.Button("Extract")
